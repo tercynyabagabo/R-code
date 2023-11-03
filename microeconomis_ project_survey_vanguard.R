@@ -409,4 +409,3 @@ Grouped_finscope<-finscope%>%
    group_by(A3,B2)%>%
    summarise(total=sum(Individuals_Weight))
 
-#   Finding the number of 
