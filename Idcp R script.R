@@ -1,4 +1,4 @@
-# Practicing ggplots. 
+# Packages. 
 library(haven)
 library(dplyr)
 library(magrittr)
